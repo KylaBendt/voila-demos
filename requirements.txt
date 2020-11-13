@@ -1,4 +1,8 @@
-matplotlib 
+datetime
+folium
 ipywidgets
+matplotlib 
 numpy
+pandas
+requests
 voila
