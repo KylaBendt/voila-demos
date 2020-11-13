@@ -4,7 +4,7 @@
 
 The focus on the design is on creating useful output in Voila.  
 
-Voila creates an interactive page showing all notebook outbook - without showing the code or allowing arbitrary code execution.  
+Voila creates an interactive page showing all notebook output - without showing the code or allowing arbitrary code execution.  
 
 Binder can be used to view either the Jupyer Lab notebook normally or using Voila.  
 
