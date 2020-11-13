@@ -13,5 +13,4 @@ Instructions for viewing any .ipynb on Github using Voila and Binder can be foun
 **Files**  
 **interact_plots.ipynb** displays sin, cos and tan plots with a interactive sliders to adjust the frequency and amplitude.  It also showcases the ipywidget interact.  You can [view the Voila version on Binder](https://mybinder.org/v2/gh/KylaBendt/voila-demos/master?filepath=voila%2Frender%2Finteract_plots.ipynb).
 
-**requirements.txt** this is used by Binder to get the needed libraries for the project.  It needs all libraries used as imports 
-+ voila. 
+**requirements.txt** this is used by Binder to get the needed libraries for the project.  It needs all libraries used as imports + voila. 
